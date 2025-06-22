@@ -1,0 +1,6 @@
+rootProject.name = 'BurbakhMicro'
+
+includeBuild 'EurekaServer'
+includeBuild 'EurekaClient'
+includeBuild 'ApiGateway'
+includeBuild 'EurekaClient2'
